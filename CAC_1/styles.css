@@ -1,0 +1,196 @@
+/* ===================================================BODY PART================================================================ */
+body{
+    background-color: #0a101e
+}
+/* ==================================================PROFILE IMAGE============================================================= */
+.image{
+    padding-right:78%;
+    padding-top: 5%;
+    height: 280px;
+    width: 280px;
+}
+/* ======================================================NAME================================================================== */
+.name{
+    padding-left:20%;
+    padding-top: 0%;
+    font-style: italic;
+}
+/* ==================================================NAVIGATION BAR============================================================ */
+.navbar{
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+}
+/* ====================================================WALLPAPER============================================================== */
+.wall{
+    height: 50%;
+    width: 50%;
+}
+/* ====================================IMAGE TEXT CONTAINER IN FIRST SECTION================================================== */
+.container{
+    position: relative;
+    text-align: center;
+    color: white;
+}
+/* ====================================IMAGE TEXT CONTAINER IN FIRST SECTION(TEXT PART)================================= */
+.centered {
+    position:absolute;
+    top: 8%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: monospace;
+}
+/* ===============================================NAVIGATION BAR TEXT COLOR============================================= */
+.textnav{
+    color: aliceblue;
+}
+/* =======================================================ABOUT ME====================================================== */
+
+.aboutme_s{
+    color: gold;
+}
+
+/* ==========================================================DP========================================================= */
+.dp{
+    border-radius: 50%;
+    height: 150px;
+    width: 150px; 
+} 
+
+/* =======================================================Skill title================================================== */
+.skill{
+    color: yellow;
+}
+
+.skill_container{
+    margin-bottom: 20px;
+}
+
+.skill_label{
+    margin-bottom: 5px;
+    font-family: monospace;
+    font-size: medium;
+}
+
+/* ===============================================Skill parts==================================================== */
+.progress_bar{
+    height: 10px;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 50%;
+    margin-left: 25%;
+}
+
+.progress{
+    height:100%;
+    border-radius: 5px;
+}
+
+/* ==================================================about me======================================================= */
+.about_me{
+    font-family: monospace;
+    font-size: medium;
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+}
+
+.container_edu{
+    width: 50%;
+    margin: 20px auto;
+    background-color: 0 0 10px rgba(46, 204, 113, 0.5);
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(5, 118, 167, 0.751);
+    font-family: monospace;
+}
+
+.education_entry{
+    border-bottom: 1px solid #a11212;
+    padding-bottom: 15px;
+    margin-bottom: 15px;
+    font-family: monospace;
+}
+
+.contact{
+    font-family: monospace;
+    margin-right: 40%;
+}
+
+.cattributes{
+    background-color: aquamarine;
+}
+
+.label{
+    margin-right: 40%;
+}
+
+.contact-container {
+  width: 80%;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+  color: #333;
+}
+
+.contact-form {
+  max-width: 400px;
+  margin: 5px 0;
+  margin-left: 37%;
+  font-family: monospace;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-bottom: 5px;
+}
+
+input,
+textarea {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+button {
+  background-color: #3498db;
+  color: #fff;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.cname{
+    font-family: monospace;
+    text-align: center;
+    
+}
+
+.bg_contactme{
+    font-family: monospace;
+    font-size: large;
+    margin-left: 60%;
+    padding-top: -70%;
+}
+
+.icon{
+    margin-left: 47%;
+    margin-top: 2%;
+}
+
+.contact_det{
+    font-family: monospace;
+    margin-bottom: 40%;
+    
+}
+
